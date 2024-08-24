@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ad3db4e747a05430c2128afecf5191b",
+    "revision": "a654fcf45fb151a833f31e87e0482e0c",
     "url": "/Retro_Arcade/index.html"
   },
   {
-    "revision": "b2765c7a9bdc725da175",
-    "url": "/Retro_Arcade/static/css/main.8e108b34.chunk.css"
+    "revision": "0c107e815d8e28d31c2d",
+    "url": "/Retro_Arcade/static/css/main.5fd0ef49.chunk.css"
   },
   {
     "revision": "0a21d84cbb58f6a6cca8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Retro_Arcade/static/js/2.e76ebdbd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2765c7a9bdc725da175",
-    "url": "/Retro_Arcade/static/js/main.90b07425.chunk.js"
+    "revision": "0c107e815d8e28d31c2d",
+    "url": "/Retro_Arcade/static/js/main.5aadaead.chunk.js"
   },
   {
     "revision": "b9cc449cbc825629644f",
