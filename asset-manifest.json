@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/Retro_Arcade/static/js/main.d8d68ac6.chunk.js",
-    "main.js.map": "/Retro_Arcade/static/js/main.d8d68ac6.chunk.js.map",
+    "main.css": "/Retro_Arcade/static/css/main.8e108b34.chunk.css",
+    "main.js": "/Retro_Arcade/static/js/main.90b07425.chunk.js",
+    "main.js.map": "/Retro_Arcade/static/js/main.90b07425.chunk.js.map",
     "runtime-main.js": "/Retro_Arcade/static/js/runtime-main.ebb834fd.js",
     "runtime-main.js.map": "/Retro_Arcade/static/js/runtime-main.ebb834fd.js.map",
     "static/js/2.e76ebdbd.chunk.js": "/Retro_Arcade/static/js/2.e76ebdbd.chunk.js",
     "static/js/2.e76ebdbd.chunk.js.map": "/Retro_Arcade/static/js/2.e76ebdbd.chunk.js.map",
     "index.html": "/Retro_Arcade/index.html",
-    "precache-manifest.635f439ecb3a9cb8da626971bb842f2a.js": "/Retro_Arcade/precache-manifest.635f439ecb3a9cb8da626971bb842f2a.js",
+    "precache-manifest.d62220641d3f52e1971379747cb1784b.js": "/Retro_Arcade/precache-manifest.d62220641d3f52e1971379747cb1784b.js",
     "service-worker.js": "/Retro_Arcade/service-worker.js",
+    "static/css/main.8e108b34.chunk.css.map": "/Retro_Arcade/static/css/main.8e108b34.chunk.css.map",
     "static/js/2.e76ebdbd.chunk.js.LICENSE.txt": "/Retro_Arcade/static/js/2.e76ebdbd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ebb834fd.js",
     "static/js/2.e76ebdbd.chunk.js",
-    "static/js/main.d8d68ac6.chunk.js"
+    "static/css/main.8e108b34.chunk.css",
+    "static/js/main.90b07425.chunk.js"
   ]
 }
