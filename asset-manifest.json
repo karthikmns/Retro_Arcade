@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.js": "/retro_arcade/static/js/main.17c4a71c.chunk.js",
-    "main.js.map": "/retro_arcade/static/js/main.17c4a71c.chunk.js.map",
-    "runtime~main.js": "/retro_arcade/static/js/runtime~main.db3e7cec.js",
-    "runtime~main.js.map": "/retro_arcade/static/js/runtime~main.db3e7cec.js.map",
-    "static/js/2.67af74b8.chunk.js": "/retro_arcade/static/js/2.67af74b8.chunk.js",
-    "static/js/2.67af74b8.chunk.js.map": "/retro_arcade/static/js/2.67af74b8.chunk.js.map",
+    "main.js": "/retro_arcade/static/js/main.d8d68ac6.chunk.js",
+    "main.js.map": "/retro_arcade/static/js/main.d8d68ac6.chunk.js.map",
+    "runtime-main.js": "/retro_arcade/static/js/runtime-main.ae792c2e.js",
+    "runtime-main.js.map": "/retro_arcade/static/js/runtime-main.ae792c2e.js.map",
+    "static/js/2.e76ebdbd.chunk.js": "/retro_arcade/static/js/2.e76ebdbd.chunk.js",
+    "static/js/2.e76ebdbd.chunk.js.map": "/retro_arcade/static/js/2.e76ebdbd.chunk.js.map",
     "index.html": "/retro_arcade/index.html",
-    "precache-manifest.cb84a2014f8fc2f1a7e5fcd9adef16e2.js": "/retro_arcade/precache-manifest.cb84a2014f8fc2f1a7e5fcd9adef16e2.js",
-    "service-worker.js": "/retro_arcade/service-worker.js"
-  }
+    "precache-manifest.47f06acc319d875721f422797b6eb68b.js": "/retro_arcade/precache-manifest.47f06acc319d875721f422797b6eb68b.js",
+    "service-worker.js": "/retro_arcade/service-worker.js",
+    "static/js/2.e76ebdbd.chunk.js.LICENSE.txt": "/retro_arcade/static/js/2.e76ebdbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae792c2e.js",
+    "static/js/2.e76ebdbd.chunk.js",
+    "static/js/main.d8d68ac6.chunk.js"
+  ]
 }
