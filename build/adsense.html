@@ -1,0 +1,1 @@
+sed -i 's/<meta name="google-adsense-account" content="ca-pub-2453843635547769">/'"$(cat adsense.html | sed 's/[\/&]/\\&/g')"'/' index.html
